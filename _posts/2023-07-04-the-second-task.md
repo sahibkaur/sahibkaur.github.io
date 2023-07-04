@@ -27,14 +27,14 @@ Here's the [link to the task](https://www.frontendmentor.io/challenges/tip-calcu
 Then I started with [my next task](https://www.frontendmentor.io/challenges/dine-restaurant-website-yAt7Vvxt7).
 
 I had an issue in the beginning, I applied margin to the child element but it gave margin to the parent as well. So, Jerry came to the rescue and gave the solution that I need to make the container `flex`. Here's the [deployed version of that issue](https://dine-restaurant-nu.vercel.app/).
- ![issue-1](./images/issue-1.png)
+ ![issue-1](../images/issue-1.png)
 
  After that I worked on the mobile view. I wanted to have something like this:
- ![circle-line][./images/circle-line.png]
+ ![circle-line][../images/circle-line.png]
  So, I try adding text for that, but it didn't quite work out.
- ![try-1][./images/try-1.png]
+ ![try-1][../images/try-1.png]
 
- But Amanjot gave the solution that I should create a div for circle and an hr tag for the line. And I completed the mobile view version _only_. Have a look](https://dine-restaurant-ra3jftdi7-sahibkaur.vercel.app/).
+ But Amanjot gave the solution that I should create a div for circle and an hr tag for the line. And I completed the mobile view version _only_. [Have a look](https://dine-restaurant-ra3jftdi7-sahibkaur.vercel.app/).
 
  There's still the issue of separator lines being too bold and ofcourse the desktop view.
  I will continue on it tomorrow.
