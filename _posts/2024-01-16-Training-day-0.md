@@ -11,8 +11,8 @@ Welcome to my training journey for my final semester of MCA at [Panjab Universit
 I have started my training here at [Ryaz.io](https://www.ryaz.io/), under my mentor [Divyanshu Garg aka Luci](https://www.instagram.com/divyanshugarg36/).
 
 My first task is as follows:
-https://react.dev/reference/react/use
-Demonstrate each and every hook given in this documentation and give them a meaningful use case.
+[Hooks documentation](https://react.dev/reference/react/use)
+"Demonstrate each and every hook given in this documentation and give them a meaningful use case."
 
 Till now, I have used the hook [useState](https://react.dev/reference/react/useState), and implemented in the project "hooks-demo". Here's the [commit](https://github.com/sahibkaur/demo-hooks/commit/a414a21fb1bb6eb4140781c2b510c4a46038011c]) demostrating the useState hook.
 
