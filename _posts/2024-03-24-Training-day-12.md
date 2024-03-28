@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Training day 11 - JavaScript Basic to Beginners"
+title: "Training day 12 - JavaScript Basic to Beginners"
 author: "Sahibee"
 ---
 
