@@ -7,6 +7,7 @@ author: "Sahibee"
 Stop using var
 Use Const or let
 
+```
 //Constructor function
 function Circle(radius) {
 console.log(‘this’, this);
@@ -26,7 +27,8 @@ return defaultLocation;
 set: function(value) {
 if(!value.x || !value.y)
 throw new Error(‘Invalid Location.’);
-defaultLocation = value;  
+defaultLocation = value;
  }
 
 });
+```
