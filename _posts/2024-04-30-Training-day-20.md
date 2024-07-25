@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Training day 18 - Object Oriented Programming with JavaScript"
+title: "Training day 20 - Object Oriented Programming with JavaScript"
 author: "Sahibee"
 ---
 
