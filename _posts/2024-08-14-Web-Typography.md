@@ -110,7 +110,7 @@ We'll go for some considerations.
 
 ### Avoid readymades
 
-![Avoid readymades](.../images/aug/readymades.png)
+![Avoid readymades](../images/aug/readymades.png)
 
 ### Developing your personal palette
 
