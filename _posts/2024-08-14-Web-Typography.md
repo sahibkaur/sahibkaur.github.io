@@ -38,6 +38,8 @@ Two kind of roles:
 - Text faces: Things that are supposed to be used in running text, lots of running paragraphs - meant to be read. These generally have larger x-height to focus on legibility so there's less contrast in the strokes of the characters.
   Example: Le Monde Journal, FF Tisa, FacitWeb.
 
+  ![Display](../images/aug/display-text.png)
+
 Look for workhorse typefaces. A typeface that can be used in more than one context.
 
 ### Reading and Perception
