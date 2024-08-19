@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Continued Module 1 - Day 1"
+author: "Sahibee"
+---
+
+Hello hellu,
+
+Next, here are the notes for today's work:
+
+Product development life cycle:
+
+- **Brainstorm**: Generating ideas about the used and the potential needs or challenges the user might have. Research plays huge role.
+- **Define**: Define is all about using the insights from the brainstorm stage and starting to narrow the focus.
+- **Design**: In the design stage, UX designers begin to actively develop ideas, and they also check that all specifications from the define stage are realistic
+- **Test**: In the test stage, the team evaluates the product design based on feedback from potential users.
+- **Launch**: Sharing a finished version of the product with the user.
+
+Responsibilities of entry level UX-designer
+
+- Researching
+- Wireframing
+- Prototyping
+- Creating information structure
+- Communicating effectively
+
+The role of a beginner UX designer, I designed this:
+
+![UX Role](../images/aug/ux-role.png)
+
+Yesterday, I won the chess match. I was white.
+![Chess](../images/aug/chess-3.png)
+
+And today's match was a draw. white again.
+![Chess](../images/aug/chess-4.png)
+
+Something for me (from this universe) today:
+![Leaves](../images/aug/leaves.jpeg)
+
+Tomorrow I aim on completing the module 1.
+
+Also, the blog is named day 1 because I meditated today. The day is going to reset each time I break the meditation streak.
+That's it!
+
+Toodles Doodles.
