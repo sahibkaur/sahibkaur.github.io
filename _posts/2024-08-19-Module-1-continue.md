@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Continued Module 1 - Day 1"
+title: "Day 1 - Continued Module 1"
 author: "Sahibee"
 ---
 
@@ -39,7 +39,7 @@ Something for me (from this universe) today:
 
 Tomorrow I aim on completing the module 1.
 
-Also, the blog is named day 1 because I meditated today. The day is going to reset each time I break the meditation streak.
+Also, the blog is named day 1 because I meditated today. The day is going to reset each time I break the meditation streak. Giving it a second though, I think I'll just keep incrementing the number regardless but if I go a week without meditation, then the number will reset to 1.
 That's it!
 
 Toodles Doodles.
