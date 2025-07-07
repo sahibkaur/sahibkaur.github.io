@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Learning Notes - Introduction to UX Research [Module 4]"
+author: "Sahibee"
+---
+
+Research that takes place before anything is done is called **foundational research**.
+Questions:
+
+- What should we build?
+- What are the user problems?
+- How can we solve them?
+- Am I aware of my own biases, and am I able to filter them as I do research?
+
+Research that takes place during the design phase, phase 3, of the product development life cycle, is called **design research**.
+
+The third type of user research is called **post-launch research**.
+Questions
+
+- Did we succeed?
+
+Qualities of a good UX researcher include empathy, pragmatism, and collaboration.
+
+**Your product design should be built upon research and facts, not assumptions.** UX research aligns what you, as the designer, think the user needs with what the user actually needs.
+
+![Project Design Life Cycle](../images/feb-2025/life-cycle.png)
+
+**Design research** is done while you design. In design research, your goal is to answer the question: How should we build it?
+
+- The most common method used to conduct design research is a **usability study**, which is a technique to evaluate a product by testing it on users.
+- Additional research methods that might be used to conduct design research include:
+  - A/B testing: For example, you might have users evaluate two layouts for the homepage of your app to find out which layout is more effective.
+  - Cafe or guerrilla studies: For example, you might sit in a local coffee shop and ask customers if they would be willing to test your app design for a couple of minutes and provide feedback.
+  - Card sorting
+  - Intercepts: A research method that gathers on-site feedback from users as they engage in the activities being researched
+
+**Post-launch research** is done after the design is complete and your product has launched.
+In post-launch research, your goal is to answer the question: Did we succeed?
+
+Research methods you might use to conduct post-launch research include:
+
+- A/B testing
+- Usability studies
+- Surveys
+- Logs analysis: A research method used to evaluate recordings of users while they interact with your design, tools, etc.
+
+"Stay open-minded and be willing to listen to other's opinions about your design."
+
+There are two ways to categorize research: who conducts the research and the type of data collected.
+
+![Types of Research](../images/march-2025/types-of-research.png)
+
+Best practice is to conduct at least five user interviews during your research. As you conduct your interviews, you’ll start to find similarities in the feedback that users provide about what works and what doesn’t work about your product. This is exactly the kind of feedback you want!
+
+A survey is an activity where many people are asked the same questions in order to understand what most people think about a product.
+
+Toodles,
+Sahib
